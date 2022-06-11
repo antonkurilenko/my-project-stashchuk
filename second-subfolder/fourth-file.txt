@@ -1,2 +1,1 @@
-fourth file text
-Hello from main!
+Deleted all
